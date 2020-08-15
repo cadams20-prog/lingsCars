@@ -7,7 +7,7 @@ class LargeCar extends Component {
 
             <img style={{position: 'relative',maxWidth: '1055',maxHieght: '800',width:'90%',height:'75%' }}src='https://cadams20-prog.github.io/lingsCars/images/road.jpg'/>
             
-            <img style={{position: 'absolute',top: "1100px",left: '500px' }}src='/https://cadams20-prog.github.io/lingsCars/images/pickup-truck_copy1.png'/>
+            <img style={{position: 'absolute',top: "1100px",left: '500px' }}src='https://cadams20-prog.github.io/lingsCars/images/pickup-truck_copy1.png'/>
 
          <div style={{position: 'absolute',top: "1000px",left: '200px' }}>  
 
@@ -23,7 +23,7 @@ class LargeCar extends Component {
          <div style={{position: 'absolute',top: "750px",left: "950px" }}> 
          
             <p style={{textAlign: 'center', fontSize: '40px',color: '#FFF8F8',fontWeight: 'bold'}}>Large Car<br/>
-                Seats 4<br/>
+                Seats 8<br/>
                 Automatic<br/>
                 Stero<br/>
                 Heat and Air<br/>
