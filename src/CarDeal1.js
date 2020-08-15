@@ -5,9 +5,9 @@ class CarDeal1 extends Component {
     return (
       <div style={{display: 'flex',justifyContent:'center', alignItems:'center'}}>
 
-            <img style={{position: 'relative',maxWidth: '1055',maxHieght: '800',width:'90%',height:'75%' }}src='/images/backgroundBlue.png'/>
+            <img style={{position: 'relative',maxWidth: '1055',maxHieght: '800',width:'90%',height:'75%' }}src='https://cadams20-prog.github.io/lingsCars/images/backgroundBlue.png'/>
             
-            <img style={{position: 'absolute',top: "1000px",left: '300px' }}src='/images/car-937414_640.png'/>
+            <img style={{position: 'absolute',top: "1000px",left: '300px' }}src='https://cadams20-prog.github.io/lingsCars/images/car-937414_640.png'/>
 
          <div style={{position: 'absolute',top: "1250px",left: '200px' }}>  
 

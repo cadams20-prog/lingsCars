@@ -5,9 +5,9 @@ class MidSize extends Component {
     return (
       <div style={{display: 'flex',justifyContent:'center', alignItems:'center'}}>
 
-            <img style={{position: 'relative',maxWidth: '1055',maxHieght: '800',width:'90%',height:'75%' }}src='/images/alps.jpg'/>
+            <img style={{position: 'relative',maxWidth: '1055',maxHieght: '800',width:'90%',height:'75%' }}src='https://cadams20-prog.github.io/lingsCars/images/alps.jpg'/>
             
-            <img style={{position: 'absolute',top: "1100px",left: '200px' }}src='/images/car-33556_640.png'/>
+            <img style={{position: 'absolute',top: "1100px",left: '200px' }}src='https://cadams20-prog.github.io/lingsCars/images/car-33556_640.png'/>
 
          <div style={{position: 'absolute',top: "900px",left: '200px' }}>  
 

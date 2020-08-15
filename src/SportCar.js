@@ -5,9 +5,9 @@ class SportCar extends Component {
     return (
       <div style={{display: 'flex',justifyContent:'center', alignItems:'center'}}>
 
-            <img style={{position: 'relative',maxWidth: '1055',maxHieght: '800',width:'90%',height:'75%' }}src='/images/cityimage21.png'/>
+            <img style={{position: 'relative',maxWidth: '1055',maxHieght: '800',width:'90%',height:'75%' }}src='https://cadams20-prog.github.io/lingsCars/images/cityimage21.png'/>
             
-            <img style={{position: 'absolute',top: "1000px",left: '430px' }}src='/images/car-1300629_640 1Copy.png'/>
+            <img style={{position: 'absolute',top: "1000px",left: '430px' }}src='https://cadams20-prog.github.io/lingsCars/images/car-1300629_640 1Copy.png'/>
 
          <div style={{position: 'absolute',top: "1100px",left: '130px' }}>  
 
@@ -15,15 +15,15 @@ class SportCar extends Component {
             <br/>
                     $2000 down $250 a mo.
             <br/> 
-                    Car#MIDS4567
+                    Car#SPTS1334
             <br/>
                     Click Here</p>
         </div>   
 
          <div style={{position: 'absolute',top: "100",left: "1020px" }}> 
          
-            <p style={{textAlign: 'center', fontSize: '40px',color: '#FFF8F8',fontWeight: 'bold'}}>MidSize Car<br/>
-                Seats 6<br/>
+            <p style={{textAlign: 'center', fontSize: '40px',color: '#FFF8F8',fontWeight: 'bold'}}>Sports Car<br/>
+                Seats 2<br/>
                 Automatic<br/>
                 Stero<br/>
                 Heat and Air<br/>

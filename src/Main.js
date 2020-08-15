@@ -17,7 +17,7 @@ class Main extends Component {
     return (
         <HashRouter>
         <div>
-        <img style={{position: 'relative', maxWidth: '1455px',maxHieght: '50px',width:'100%',height:'50%'}}src="/images/homepage1.jpg" />
+        <img style={{position: 'relative', maxWidth: '1455px',maxHieght: '50px',width:'100%',height:'50%'}}src="https://cadams20-prog.github.io/lingsCars/images/homepage1.jpg" />
           <h1 style={{textAlign: 'center'}}>Ling's Cars Leasing Deals</h1>
           <ul className="header">
             <li><NavLink exact to = "/">Home</NavLink></li>

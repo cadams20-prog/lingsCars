@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import {ShakeHorizontal} from "reshake";
+
+
 class Home extends Component {
     render() {
       return (
@@ -13,19 +15,19 @@ class Home extends Component {
            
             <div style={{display: 'flex',justifyContent:'center', alignItems:'center'}}>
               <ShakeHorizontal>
-                <Link to ="/cardeal1"><img style={{marginBottom: '0px',position: 'relative',maxWidth:'100px',maxHieght:'50px',width: '100%', height: '100%',paddingLeft:'50px',display: 'inlineblock'}}src="/car-937414_640.png"/></Link>
+                <Link to ="/cardeal1"><img style={{marginBottom: '0px',position: 'relative',maxWidth:'100px',maxHieght:'50px',width: '100%', height: '100%',paddingLeft:'50px',display: 'inlineblock'}}src="https://cadams20-prog.github.io/lingsCars/images/car-937414_640.png"/></Link>
               </ShakeHorizontal>
 
               <ShakeHorizontal>
-                  <Link to ="/midsize">  <img style={{position: 'relative',maxWidth:'70px',maxHieght:'30px',width: '100%', height: '100%', paddingLeft:'50px',display: 'inlineblock'}}src="/images/car-33556_640.png"/></Link>
+                  <Link to ="/midsize">  <img style={{position: 'relative',maxWidth:'70px',maxHieght:'30px',width: '100%', height: '100%', paddingLeft:'50px',display: 'inlineblock'}}src="https://cadams20-prog.github.io/lingsCars/images/car-33556_640.png"/></Link>
               </ShakeHorizontal>
 
               <ShakeHorizontal>
-                 <Link to ="/sportcar">  <img style={{position: 'relative',maxWidth:'100px',maxHieght:'75px',width: '100%', height: '100%',paddingLeft:'50px',display: 'inlineblock'}}src="/images/car-1300629_640 1Copy.png" /></Link>
+                 <Link to ="/sportcar">  <img style={{position: 'relative',maxWidth:'100px',maxHieght:'75px',width: '100%', height: '100%',paddingLeft:'50px',display: 'inlineblock'}}src="https://cadams20-prog.github.io/lingsCars/images/car-1300629_640 1Copy.png" /></Link>
               </ShakeHorizontal>
 
               <ShakeHorizontal>  
-              <Link to ="/largecar"><img style={{position: 'relative',maxWidth:'100px',maxHieght: '50px',width: '100%', height: '100%',paddingLeft:'50px',display: 'inlineblock'}}src="/images/pickup-truck copy.png" /> </Link>
+              <Link to ="/largecar"><img style={{position: 'relative',maxWidth:'100px',maxHieght: '50px',width: '100%', height: '100%',paddingLeft:'50px',display: 'inlineblock'}}src="https://cadams20-prog.github.io/lingsCars/images/pickup-truck copy.png" /> </Link>
               </ShakeHorizontal>
             </div>
              
