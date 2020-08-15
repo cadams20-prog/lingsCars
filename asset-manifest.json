@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lingsCars/static/css/main.0a83dc05.chunk.css",
+    "main.js": "/lingsCars/static/js/main.c8828e7c.chunk.js",
+    "main.js.map": "/lingsCars/static/js/main.c8828e7c.chunk.js.map",
+    "runtime-main.js": "/lingsCars/static/js/runtime-main.11b70f2e.js",
+    "runtime-main.js.map": "/lingsCars/static/js/runtime-main.11b70f2e.js.map",
+    "static/js/2.b2cd828f.chunk.js": "/lingsCars/static/js/2.b2cd828f.chunk.js",
+    "static/js/2.b2cd828f.chunk.js.map": "/lingsCars/static/js/2.b2cd828f.chunk.js.map",
+    "index.html": "/lingsCars/index.html",
+    "precache-manifest.2add638ecdff47d263c2ffbd64158177.js": "/lingsCars/precache-manifest.2add638ecdff47d263c2ffbd64158177.js",
+    "service-worker.js": "/lingsCars/service-worker.js",
+    "static/css/main.0a83dc05.chunk.css.map": "/lingsCars/static/css/main.0a83dc05.chunk.css.map",
+    "static/js/2.b2cd828f.chunk.js.LICENSE.txt": "/lingsCars/static/js/2.b2cd828f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11b70f2e.js",
+    "static/js/2.b2cd828f.chunk.js",
+    "static/css/main.0a83dc05.chunk.css",
+    "static/js/main.c8828e7c.chunk.js"
+  ]
+}
