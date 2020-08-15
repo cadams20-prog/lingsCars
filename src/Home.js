@@ -13,7 +13,7 @@ class Home extends Component {
            
             <div style={{display: 'flex',justifyContent:'center', alignItems:'center'}}>
               <ShakeHorizontal>
-                <Link to ="/cardeal1"><img style={{marginBottom: '0px',position: 'relative',maxWidth:'100px',maxHieght:'50px',width: '100%', height: '100%',paddingLeft:'50px',display: 'inlineblock'}}src="/images/car-937414_640.png"/></Link>
+                <Link to ="/cardeal1"><img style={{marginBottom: '0px',position: 'relative',maxWidth:'100px',maxHieght:'50px',width: '100%', height: '100%',paddingLeft:'50px',display: 'inlineblock'}}src="/car-937414_640.png"/></Link>
               </ShakeHorizontal>
 
               <ShakeHorizontal>
