@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b224777c7207714f5bc34391c9e4b4b0",
+    "revision": "a060b5f64a97d24c78900c98f912023c",
     "url": "/lingsCars/index.html"
   },
   {
-    "revision": "802b8039e0694bbbe6d2",
+    "revision": "4eb8d6e6ad12952df25e",
     "url": "/lingsCars/static/css/main.0a83dc05.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lingsCars/static/js/2.b2cd828f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "802b8039e0694bbbe6d2",
-    "url": "/lingsCars/static/js/main.c8828e7c.chunk.js"
+    "revision": "4eb8d6e6ad12952df25e",
+    "url": "/lingsCars/static/js/main.6304fa05.chunk.js"
   },
   {
     "revision": "22def6110b5c8fb9947f",

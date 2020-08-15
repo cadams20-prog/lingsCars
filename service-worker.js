@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lingsCars/precache-manifest.2add638ecdff47d263c2ffbd64158177.js"
+  "/lingsCars/precache-manifest.492bb9da245f0ddbda8f04ff7ce8c35f.js"
 );
 
 self.addEventListener('message', (event) => {
