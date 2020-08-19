@@ -14,19 +14,19 @@ class Home extends Component {
            
             <div style={{display: 'flex', justifyContent:'center', alignItems:'center'}}>
               <ShakeHorizontal>
-                <Link to ="/cardeal1"><img style={{marginBottom: '0px', position: 'relative', maxWidth:'100px', maxHieght:'50px',width: '100%', height: '100%', paddingLeft:'50px', display: 'inlineblock'}}src="https://cadams20-prog.github.io/lingsCars/images/car-937414_640.png"/></Link>
+                <Link to ="/cardeal1"><img style={{marginBottom: '0px', position: 'relative', maxWidth:'155px', maxHieght:'50px',width: '100%', height: '100%', paddingLeft:'50px', display: 'inlineblock'}}src="https://cadams20-prog.github.io/lingsCars/images/car-937414_640.png"/></Link>
               </ShakeHorizontal>
 
               <ShakeHorizontal>
-                  <Link to ="/midsize"><img style={{position: 'relative', maxWidth:'70px', maxHieght:'30px', width: '100%', height: '100%', paddingLeft:'50px',display: 'inlineblock'}}src="https://cadams20-prog.github.io/lingsCars/images/car-33556_640.png"/></Link>
+                  <Link to ="/midsize"><img style={{position: 'relative', maxWidth:'125px', maxHieght:'30px', width: '100%', height: '100%', paddingLeft:'50px',display: 'inlineblock'}}src="https://cadams20-prog.github.io/lingsCars/images/car-33556_640.png"/></Link>
               </ShakeHorizontal>
 
               <ShakeHorizontal>
-                 <Link to ="/sportcar"><img style={{position: 'relative', maxWidth:'100px', maxHieght:'75px', width: '100%', height: '100%', paddingLeft:'50px', display: 'inlineblock'}}src="https://cadams20-prog.github.io/lingsCars/images/car-1300629_640 1Copy.png" /></Link>
+                 <Link to ="/sportcar"><img style={{position: 'relative', maxWidth:'145px', maxHieght:'75px', width: '100%', height: '100%', paddingLeft:'50px', display: 'inlineblock'}}src="https://cadams20-prog.github.io/lingsCars/images/car-1300629_640 1Copy.png" /></Link>
               </ShakeHorizontal>
 
               <ShakeHorizontal>  
-              <Link to ="/largecar"><img style={{position: 'relative', maxWidth:'100px', maxHieght: '50px', width: '100%', height: '100%', paddingLeft:'50px', display: 'inlineblock'}}src="https://cadams20-prog.github.io/lingsCars/images/pickup-truck_copy1.png"/></Link>
+              <Link to ="/largecar"><img style={{position: 'relative', maxWidth:'135px', maxHieght: '50px', width: '100%', height: '100%', paddingLeft:'50px', display: 'inlineblock'}}src="https://cadams20-prog.github.io/lingsCars/images/pickup-truck_copy1.png"/></Link>
               </ShakeHorizontal>
             </div>
              
@@ -37,7 +37,7 @@ class Home extends Component {
                 <p style={{fontSize:"1em", marginTop: '0px',position: 'relative',paddingLeft:'88px',display: 'inlineblock'}}>Large</p>
             </div>
             <div> 
-               <h3 style={{textAlign:'center'}}>Start leasing today to be Maintenance Free and drive a New Car every couple of years!</h3>
+               <h2 style={{textAlign:'center'}}>Start leasing today to be Maintenance Free and drive a New Car every couple of years!</h2>
             </div> 
             <div>
              <p style={{fontSize: '9px', textAlign: 'center'}}>
