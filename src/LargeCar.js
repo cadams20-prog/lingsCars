@@ -32,7 +32,7 @@ class LargeCar extends Component {
 
          </div>
 
-         <div style={{position: 'absolute',top: "1465px",left: "350px" }}> 
+         <div style={{position: 'absolute',top: "1460px",left: "350px" }}> 
               <p style={{color: '#FFF8F8',fontSize: '9px', textAlign: 'center'}}>
               ABARTH | ALFAROMERO |  AUDI |  BMW | CITRON | DACIA | DS | FIAT | FORD | 
               HYUNDA | HONDA | JAGUAR | JEEP | KIA | LAND | ROVER | LEXUS | MAZDA | MERCEDES | 

@@ -11,6 +11,8 @@ import {
   import MidSize from "./MidSize";
   import SportCar from "./SportCar";
   import LargeCar from "./LargeCar";
+  import Appointment from "./Appointment";
+ 
 
 class Main extends Component {
   render() {
@@ -23,6 +25,7 @@ class Main extends Component {
             <li><NavLink exact to = "/">Home</NavLink></li>
             <li><NavLink to = "/specials">Specials</NavLink></li>
             <li><NavLink to ="/contact">Contact</NavLink></li>
+            <li><NavLink to ="/appointment">Appointment</NavLink></li>
             
           </ul>
           <div className="content">
@@ -33,7 +36,8 @@ class Main extends Component {
             <Route path="/midsize" component={MidSize}/>
             <Route path="/sportcar" component={SportCar}/>
             <Route path="/largecar" component={LargeCar}/>
-             
+            <Route path="/appointment" component={Appointment}/>
+            
           </div>
         </div>
         </HashRouter>

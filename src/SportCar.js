@@ -31,7 +31,7 @@ class SportCar extends Component {
             </p>
 
             </div>
-              <div style={{position: 'absolute',top: "1350px",left: "350px" }}> 
+              <div style={{position: 'absolute',top: "1348px",left: "350px" }}> 
               <p style={{color: '#FFF8F8',fontSize: '9px', textAlign: 'center'}}>
               ABARTH | ALFAROMERO |  AUDI |  BMW | CITRON | DACIA | DS | FIAT | FORD | 
               HYUNDA | HONDA | JAGUAR | JEEP | KIA | LAND | ROVER | LEXUS | MAZDA | MERCEDES | 
