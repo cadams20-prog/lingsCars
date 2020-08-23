@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "048288b89b93c87cacde6b4e87e63df2",
+    "revision": "008c372788180cbe7991b5e9c47c38a1",
     "url": "/lingsCars/index.html"
   },
   {
-    "revision": "27ea90777d4a26e46efe",
+    "revision": "5d782fc49fc8a60eea06",
     "url": "/lingsCars/static/css/2.6d52cc7f.chunk.css"
   },
   {
-    "revision": "093b4afce3200e144b92",
+    "revision": "b417499be130ceed502a",
     "url": "/lingsCars/static/css/main.baba6596.chunk.css"
   },
   {
-    "revision": "27ea90777d4a26e46efe",
-    "url": "/lingsCars/static/js/2.e2dbca0a.chunk.js"
+    "revision": "5d782fc49fc8a60eea06",
+    "url": "/lingsCars/static/js/2.9718cd67.chunk.js"
   },
   {
     "revision": "d2966845b94a3318bf32eecc7af8015d",
-    "url": "/lingsCars/static/js/2.e2dbca0a.chunk.js.LICENSE.txt"
+    "url": "/lingsCars/static/js/2.9718cd67.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "093b4afce3200e144b92",
-    "url": "/lingsCars/static/js/main.0e596d45.chunk.js"
+    "revision": "b417499be130ceed502a",
+    "url": "/lingsCars/static/js/main.90ce2446.chunk.js"
   },
   {
     "revision": "22def6110b5c8fb9947f",
