@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "008c372788180cbe7991b5e9c47c38a1",
+    "revision": "254a545abe662f6b50648492073c0b91",
     "url": "/lingsCars/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lingsCars/static/css/2.6d52cc7f.chunk.css"
   },
   {
-    "revision": "b417499be130ceed502a",
+    "revision": "fcdb1f9cf1f10109dedf",
     "url": "/lingsCars/static/css/main.baba6596.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lingsCars/static/js/2.9718cd67.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b417499be130ceed502a",
-    "url": "/lingsCars/static/js/main.90ce2446.chunk.js"
+    "revision": "fcdb1f9cf1f10109dedf",
+    "url": "/lingsCars/static/js/main.a8aac727.chunk.js"
   },
   {
     "revision": "22def6110b5c8fb9947f",

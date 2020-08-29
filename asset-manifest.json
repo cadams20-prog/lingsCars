@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lingsCars/static/css/main.baba6596.chunk.css",
-    "main.js": "/lingsCars/static/js/main.90ce2446.chunk.js",
-    "main.js.map": "/lingsCars/static/js/main.90ce2446.chunk.js.map",
+    "main.js": "/lingsCars/static/js/main.a8aac727.chunk.js",
+    "main.js.map": "/lingsCars/static/js/main.a8aac727.chunk.js.map",
     "runtime-main.js": "/lingsCars/static/js/runtime-main.11b70f2e.js",
     "runtime-main.js.map": "/lingsCars/static/js/runtime-main.11b70f2e.js.map",
     "static/css/2.6d52cc7f.chunk.css": "/lingsCars/static/css/2.6d52cc7f.chunk.css",
     "static/js/2.9718cd67.chunk.js": "/lingsCars/static/js/2.9718cd67.chunk.js",
     "static/js/2.9718cd67.chunk.js.map": "/lingsCars/static/js/2.9718cd67.chunk.js.map",
     "index.html": "/lingsCars/index.html",
-    "precache-manifest.a7f56f3079176e0fa78b311e14d6ed3e.js": "/lingsCars/precache-manifest.a7f56f3079176e0fa78b311e14d6ed3e.js",
+    "precache-manifest.6e1850d6b385f8dd35b4314381cf45d5.js": "/lingsCars/precache-manifest.6e1850d6b385f8dd35b4314381cf45d5.js",
     "service-worker.js": "/lingsCars/service-worker.js",
     "static/css/2.6d52cc7f.chunk.css.map": "/lingsCars/static/css/2.6d52cc7f.chunk.css.map",
     "static/css/main.baba6596.chunk.css.map": "/lingsCars/static/css/main.baba6596.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.6d52cc7f.chunk.css",
     "static/js/2.9718cd67.chunk.js",
     "static/css/main.baba6596.chunk.css",
-    "static/js/main.90ce2446.chunk.js"
+    "static/js/main.a8aac727.chunk.js"
   ]
 }
